@@ -1,1 +1,1 @@
-# beauty-and-fashion-photography-website
+Documenting my Data Science journey
