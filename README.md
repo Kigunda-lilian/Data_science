@@ -1,1 +1,1 @@
-Documenting my Data Science journey
+My Data Science journey
