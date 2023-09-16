@@ -1,1 +1,1 @@
-My Data Science journey
+Data Science resources
