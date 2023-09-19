@@ -1,1 +1,1 @@
-Data Science resources
+Data Science resources and labs.
